@@ -1,1 +1,5 @@
+
 This is new file with same name
+
+This is the second file with same name with 1st branch
+
